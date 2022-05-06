@@ -1,0 +1,13 @@
+[
+  {
+    "settings_marker": "Paneric\\NNOptimizer\\Sequencer\\Loopers\\Input\\Settings\\SourceFixedSettings",
+    "type": "fixed",
+
+    "loops": [
+      {
+        "input_binary": "no",
+        "target_binary": "no"
+      }
+    ]
+  }
+]

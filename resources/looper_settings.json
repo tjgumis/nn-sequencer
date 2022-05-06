@@ -1,0 +1,16 @@
+{
+  "activation_function_looper":  "./resources/settings/activation_function_static.json",
+  "activation_parameter_looper": "./resources/settings/activation_parameter_static.json",
+  "general_looper":              "./resources/settings/general_static.json",
+  "input_column_looper":         "./resources/settings/input_column_static.json",
+  "input_scope_looper":          "./resources/settings/input_scope_static.json",
+  "input_sequence_looper":       "./resources/settings/input_sequence_dynamic.json",
+  "input_source_looper":         "./resources/settings/input_source_static.json",
+  "input_transformation_looper": "./resources/settings/input_transformation_static.json",
+  "order_looper":                "./resources/settings/order_static.json",
+  "process_looper":              "./resources/settings/process_static.json",
+  "structure_looper":            "./resources/settings/structure_static.json",
+  "weight_elimination_looper":   "./resources/settings/weight_elimination_static.json",
+  "weight_generation_looper":    "./resources/settings/weight_generation_dynamic.json",
+  "weight_revision_looper":      "./resources/settings/weight_revision_static.json"
+}

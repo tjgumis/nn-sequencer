@@ -1,0 +1,27 @@
+[
+  {
+    "settings_marker": "class com.paneric.optimization.loopers.input.settings.TransformationFixedSettings",
+    "type": "fixed",
+    "loops": [
+      {
+        "train_input_begin": 0,
+        "train_input_end": 41,
+        "test_input_begin": 42,
+        "test_input_end": 83,
+        "predict_input_begin": 84,
+        "predict_input_end": 111,
+        "ranges_processing": "Train_Test_Predict",
+        "upload_folder": "",
+        "separator": ";",
+        "data_file_name": "src/main/resources/data/test_06/crypto_data.csv",
+        "file_name": "src/main/resources/data/test_06/crypto.csv",
+        "scale_coefficient": 0.8,
+        "normalization_mode": "values",
+        "normalization_coefficient": 2,
+        "min_determination_coefficient": 0.96,
+        "do_gradation": "no"
+      }
+    ]
+  }
+]
+

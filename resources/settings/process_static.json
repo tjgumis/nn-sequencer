@@ -1,0 +1,16 @@
+[
+  {
+    "settings_marker": "Paneric\\NNOptimizer\\Sequencer\\Loopers\\Process\\Settings\\ProcessFixedSettings",
+    "type": "fixed",
+
+    "loops": [
+      {
+        "epochs_number": 1000,
+        "results_number": 10,
+        "net_type": "linear",
+        "re_accepted": 0.0,
+        "mse_accepted": 0.0001
+      }
+    ]
+  }
+]

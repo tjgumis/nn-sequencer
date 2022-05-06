@@ -1,0 +1,11 @@
+[
+  {
+    "settings_marker": "Paneric\\NNOptimizer\\Sequencer\\Loopers\\Input\\Settings\\ColumnCombinationsSettings",
+    "type": "dynamic",
+
+    "n": 2,
+    "train_target_column_keys": [1],
+    "test_target_column_keys": [1],
+    "predict_target_column_keys": [1]
+  }
+]

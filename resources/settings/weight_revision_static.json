@@ -1,0 +1,14 @@
+[
+  {
+    "settings_marker": "Paneric\\NNOptimizer\\Sequencer\\Loopers\\Weight\\Settings\\RevisionFixedSettings",
+    "type": "fixed",
+    "loops": [
+      {
+        "equation_name": "Paneric\\NNOptimizer\\Network\\Equation\\LM\\EquationLMBuilder",
+        "equation_data_storage_name": "Paneric\\NNOptimizer\\DataStorage\\DataStorage",
+        "equation_resolver_name" : "Paneric\\NNOptimizer\\Network\\Equation\\LM\\EquationLMResolver",
+        "lambda": 0.00001
+      }
+    ]
+  }
+]

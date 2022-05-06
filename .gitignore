@@ -1,0 +1,6 @@
+.idea
+.env
+.cache
+var
+vendor
+.phpunit.result.cache

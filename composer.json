@@ -1,0 +1,32 @@
+{
+    "name": "paneric/nn-optimizer",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Paneric\\NNOptimizer\\": "src/",
+            "spec\\Paneric\\NNOptimizer\\": "spec/",
+            "var\\Paneric\\NNOptimizer\\": "var/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tomasz Januszewicz",
+            "email": "tomek.januszewicz@gmail.com"
+        }
+    ],
+    "config": {
+        "bin-dir": "bin"
+    },
+    "require": {
+        "symfony/console": "^6.0",
+        "php-di/php-di": "^6.3",
+        "phpspec/phpspec": "^7.2",
+        "markrogoyski/math-php": "2.*"
+    }
+    ,
+    "require-dev": {
+        "roave/security-advisories": "dev-latest",
+        "symfony/var-dumper": "^6.0"
+    }
+}

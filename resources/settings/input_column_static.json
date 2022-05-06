@@ -1,0 +1,17 @@
+[
+  {
+    "settings_marker": "Paneric\\NNOptimizer\\Sequencer\\Loopers\\Input\\Settings\\ColumnFixedSettings",
+    "type": "fixed",
+
+    "loops": [
+      {
+        "train_input_column_keys": [0],
+        "train_target_column_keys": [1],
+        "test_input_column_keys": [0],
+        "test_target_column_keys": [1],
+        "predict_input_column_keys": [0],
+        "predict_target_column_keys": [1]
+      }
+    ]
+  }
+]

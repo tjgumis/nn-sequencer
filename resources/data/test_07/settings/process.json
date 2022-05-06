@@ -1,0 +1,15 @@
+[
+  {
+    "settings_marker": "class com.paneric.optimization.loopers.process.settings.ProcessFixedSettings",
+    "type": "fixed",
+    "loops": [
+      {
+        "epochs_number": 100,
+        "results_number": 10,
+        "net_type": "recurrent",
+        "re_accepted": 0.0,
+        "mse_accepted": 0.0
+      }
+    ]
+  }
+]

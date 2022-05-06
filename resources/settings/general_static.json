@@ -1,0 +1,58 @@
+[
+  {
+    "settings_marker": "Paneric\\NNOptimizer\\Sequencer\\Loopers\\General\\Settings\\GeneralFixedSettings",
+    "type": "fixed",
+    "loops": [
+      {
+        "upload_folder": "./resources/data/linear/",
+        "separator": ";",
+
+        "source_file_name": "linear.csv",
+        "scope_file_name": "scope.csv",
+        "normalized_scope_file_name": "normalized_scope.csv",
+
+        "train_input_file_name": "input_train.csv",
+        "train_target_file_name": "target_train.csv",
+        "test_input_file_name": "input_test.csv",
+        "test_target_file_name": "target_test.csv",
+        "predict_input_file_name": "input_predict.csv",
+        "predict_target_file_name": "target_predict.csv",
+
+
+        "results_train_settings_file_name": "results_train_settings.json",
+        "results_train_weights_file_name": "results_train_weights.json",
+        "results_train_all_mse_file_name": "results_train_all_mse.json",
+        "results_train_values_file_name": "results_train_values.json",
+        "results_train_summary_file_name": "results_train_summary.json",
+
+        "results_test_settings_file_name": "results_test_settings.json",
+        "results_test_weights_file_name": "results_test_weights.json",
+        "results_test_all_mse_file_name": "results_test_all_mse.json",
+        "results_test_values_file_name": "results_test_values.json",
+        "results_test_summary_file_name": "results_test_summary.json",
+
+        "results_predict_settings_file_name": "results_predict_settings.json",
+        "results_predict_weights_file_name": "results_predict_weights.json",
+        "results_predict_all_mse_file_name": "results_predict_all_mse.json",
+        "results_predict_values_file_name": "results_predict_values.json",
+        "results_predict_summary_file_name": "results_predict_summary.json",
+
+
+        "results_train_settings_file_name_csv": "results_train_settings.csv",
+        "results_train_weights_file_name_csv": "results_train_weights.csv",
+        "results_train_all_mse_file_name_csv": "results_train_all_mse.csv",
+        "results_train_values_file_name_csv": "results_train_values.csv",
+
+        "results_test_settings_file_name_csv": "results_test_settings.csv",
+        "results_test_weights_file_name_csv": "results_test_weights.csv",
+        "results_test_all_mse_file_name_csv": "results_test_all_mse.csv",
+        "results_test_values_file_name_csv": "results_test_values.csv",
+
+        "results_predict_settings_file_name_csv": "results_predict_settings.csv",
+        "results_predict_weights_file_name_csv": "results_predict_weights.csv",
+        "results_predict_all_mse_file_name_csv": "results_predict_all_mse.csv",
+        "results_predict_values_file_name_csv": "results_predict_values.csv"
+      }
+    ]
+  }
+]

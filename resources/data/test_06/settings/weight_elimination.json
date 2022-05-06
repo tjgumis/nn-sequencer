@@ -1,0 +1,12 @@
+[
+  {
+    "settings_marker": "class com.paneric.optimization.loopers.weight.settings.EliminationFixedSettings",
+    "type": "fixed",
+    "loops": [
+      {
+        "process": "weight_elimination",
+        "threshold": 0.01
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "settings_marker": "class com.paneric.optimization.loopers.input.settings.SourceFixedSettings",
+    "type": "fixed",
+    "loops": [
+      {
+        "train_input_file_name": "src/main/resources/data/test_06/input_train.csv",
+        "train_target_file_name": "src/main/resources/data/test_06/target_train.csv",
+        "test_input_file_name": "src/main/resources/data/test_06/input_test.csv",
+        "test_target_file_name": "src/main/resources/data/test_06/target_test.csv",
+        "predict_input_file_name": "src/main/resources/data/test_06/input_predict.csv",
+        "predict_target_file_name": "src/main/resources/data/test_06/target_predict.csv",
+        "results_train_values_file_name": "src/main/resources/data/test_06/results_train_values.json",
+        "results_test_values_file_name": "src/main/resources/data/test_06/results_test_values.json",
+        "results_predict_values_file_name": "src/main/resources/data/test_06/results_predict_values.json",
+        "results_test_settings_file_name": "src/main/resources/data/test_06/results_test_settings.json",
+        "results_test_weights_file_name": "src/main/resources/data/test_06/results_test_weights.json",
+        "results_test_all_mse_file_name": "src/main/resources/data/test_06/results_test_all_mse.json"
+      }
+    ]
+  }
+]

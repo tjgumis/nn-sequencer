@@ -1,0 +1,14 @@
+[
+  {
+    "settings_marker": "class com.paneric.optimization.loopers.activation.settings.FunctionFixedSettings",
+    "type": "fixed",
+    "loops": [
+      {
+        "composition": "per_layer",
+        "function_types": ["Linear", "Sigmoid", "Sigmoid"],
+        "function_per_node": [],
+        "thresholds" : [1.0, 1.0, null]
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "settings_marker": "class com.paneric.optimization.loopers.weight.settings.RevisionFixedSettings",
+    "type": "fixed",
+    "loops": [
+      {
+        "equation_name": "class com.paneric.network.equation.lm.EquationLMprocessor",
+        "equation_data_storage_name": "class com.paneric.network.equation.lm.EquationLMdataStorage",
+        "equation_resolver_name" : "class com.paneric.network.equation.lm.EquationLMresolver",
+        "lambda": 0.1
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "settings_marker": "class com.paneric.optimization.loopers.input.settings.ColumnCombinationsSettings",
+    "type": "dynamic",
+    "n": 6,
+    "train_target_column_keys": [0],
+    "test_target_column_keys": [0],
+    "predict_target_column_keys": [0]
+  },
+  {
+    "settings_marker": "class com.paneric.optimization.loopers.input.settings.ColumnCombinationsSettings",
+    "type": "dynamic",
+    "n": 6,
+    "train_target_column_keys": [1],
+    "test_target_column_keys": [1],
+    "predict_target_column_keys": [1]
+  },
+  {
+    "settings_marker": "class com.paneric.optimization.loopers.input.settings.ColumnCombinationsSettings",
+    "type": "dynamic",
+    "n": 6,
+    "train_target_column_keys": [2],
+    "test_target_column_keys": [2],
+    "predict_target_column_keys": [2]
+  },
+  {
+    "settings_marker": "class com.paneric.optimization.loopers.input.settings.ColumnCombinationsSettings",
+    "type": "dynamic",
+    "n": 6,
+    "train_target_column_keys": [3],
+    "test_target_column_keys": [3],
+    "predict_target_column_keys": [3]
+  },
+  {
+    "settings_marker": "class com.paneric.optimization.loopers.input.settings.ColumnCombinationsSettings",
+    "type": "dynamic",
+    "n": 6,
+    "train_target_column_keys": [4],
+    "test_target_column_keys": [4],
+    "predict_target_column_keys": [4]
+  },
+  {
+    "settings_marker": "class com.paneric.optimization.loopers.input.settings.ColumnCombinationsSettings",
+    "type": "dynamic",
+    "n": 6,
+    "train_target_column_keys": [5],
+    "test_target_column_keys": [5],
+    "predict_target_column_keys": [5]
+  }
+]

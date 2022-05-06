@@ -1,0 +1,15 @@
+[
+  {
+    "settings_marker": "Paneric\\NNOptimizer\\Sequencer\\Loopers\\Input\\Settings\\SequenceCombinationsSettings",
+    "type": "dynamic",
+
+    "input_sequencer_marker": "Paneric\\NNOptimizer\\Network\\Input\\Slide\\InputSlideSequencer",
+    "delay_start": 0,
+    "delay_stop": 0,
+    "rows_number_start": 1,
+    "rows_number_stop": 1,
+    "shift_start": 1,
+    "shift_stop": 1,
+    "target_type": "singular"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "settings_marker": "Paneric\\NNOptimizer\\Sequencer\\Loopers\\Input\\Settings\\ScopeFixedSettings",
+    "type": "fixed",
+
+    "loops": [
+      {
+        "scope_begin": 0,
+        "scope_end": 9,
+        "train_input_begin": 0,
+        "train_input_end": 9,
+        "test_input_begin": 0,
+        "test_input_end": 9,
+        "predict_input_begin": 0,
+        "predict_input_end": 9
+      }
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "settings_marker": "class com.paneric.optimization.loopers.activation.settings.ParameterFixedSettings",
+    "type": "fixed",
+    "loops": [
+      {
+        "composition": "per_layer",
+        "parameter_values": [0.0, 0.3, 0.2],
+        "parameter_per_node": []
+      }
+    ]
+  }
+]

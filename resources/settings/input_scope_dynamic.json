@@ -1,0 +1,27 @@
+[
+  {
+    "settings_marker": "Paneric\\NNOptimizer\\Sequencer\\Loopers\\Input\\Settings\\ScopeDynamicSettings",
+    "type": "dynamic",
+
+    "scope_begin": 0,
+    "scope_end": 566,
+
+    "train_init_input_begin": 539,
+    "train_init_input_end": 552,
+    "test_init_input_begin": 546,
+    "test_init_input_end": 559,
+    "predict_init_input_begin": 553,
+    "predict_init_input_end": 566,
+
+    "input_range_shift_begin": 0,
+    "input_range_shift_end": 0,
+
+    "input_shift": -1,
+    "input_shift_begin": 0,
+    "input_shift_end": 0,
+
+    "train_input_shift_active": "yes",
+    "test_input_shift_active": "no",
+    "predict_input_shift_active": "no"
+  }
+]

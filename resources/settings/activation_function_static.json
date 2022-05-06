@@ -1,0 +1,15 @@
+[
+  {
+    "settings_marker": "Paneric\\NNOptimizer\\Sequencer\\Loopers\\Activation\\Settings\\FunctionFixedSettings",
+    "type": "fixed",
+
+    "loops": [
+      {
+        "composition": "per_layer",
+        "function_types": ["Linear", "Sigmoid2", "Sigmoid2"],
+        "function_per_node": [],
+        "thresholds" : [1.0, 1.0, null]
+      }
+    ]
+  }
+]

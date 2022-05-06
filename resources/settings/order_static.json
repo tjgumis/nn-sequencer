@@ -1,0 +1,17 @@
+[
+  {
+    "settings_marker": "Paneric\\NNOptimizer\\Sequencer\\Loopers\\Order\\Settings\\OrderFixedSettings",
+    "type": "fixed",
+
+    "loops": [
+      [
+        "activation_function_looper",
+        "activation_parameter_looper",
+        "weight_revision_looper",
+        "input_sequence_looper",
+        "weight_generation_looper",
+        "weight_elimination_looper"
+      ]
+    ]
+  }
+]

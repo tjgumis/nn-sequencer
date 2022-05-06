@@ -1,0 +1,11 @@
+[
+  {
+    "settings_marker": "class com.paneric.optimization.loopers.structure.settings.StructureFixedSettings",
+    "type": "fixed",
+    "loops": [
+      {
+        "nodes_in_layers": [0, 0, 1]
+      }
+    ]
+  }
+]

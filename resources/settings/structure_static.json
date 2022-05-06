@@ -1,0 +1,13 @@
+[
+  {
+    "settings_marker": "Paneric\\NNOptimizer\\Sequencer\\Loopers\\Structure\\Settings\\StructureFixedSettings",
+    "type": "fixed",
+
+    "loops": [
+      {
+        "excess": 0,
+        "nodes_in_layers": [null, 1, null]
+      }
+    ]
+  }
+]

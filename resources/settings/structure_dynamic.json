@@ -1,0 +1,10 @@
+[
+  {
+    "settings_marker": "Paneric\\NNOptimizer\\Sequencer\\Loopers\\Structure\\Settings\\StructureDynamicSettings",
+    "type": "dynamic",
+
+    "loop_begin" : 1,
+    "loop_end": 1,
+    "nodes_in_layers": [0, 0, 1]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "settings_marker": "class com.paneric.optimization.loopers.input.settings.SequenceCombinationsSettings",
+    "type": "dynamic",
+    "input_sequencer_marker": "class com.paneric.network.input.slide.InputSlideSequencer",
+    "delay_start": 1,
+    "delay_stop": 2,
+    "rows_number_start": 2,
+    "rows_number_stop": 7,
+    "shift_start": 1,
+    "shift_stop": 7,
+    "target_type": "multiple"
+  }
+]

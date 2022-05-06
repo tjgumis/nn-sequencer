@@ -1,0 +1,14 @@
+[
+  {
+    "settings_marker": "Paneric\\NNOptimizer\\Sequencer\\Loopers\\Activation\\Settings\\ParameterFixedSettings",
+    "type": "fixed",
+
+    "loops": [
+      {
+        "composition": "per_layer",
+        "parameter_values": [0.0, 4.0, 4.0],
+        "parameter_per_node": []
+      }
+    ]
+  }
+]

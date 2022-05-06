@@ -1,0 +1,27 @@
+[
+  {
+    "settings_marker": "class com.paneric.optimization.loopers.input.settings.TransformationFixedSettings",
+    "type": "fixed",
+    "loops": [
+      {
+        "train_input_begin": 0,
+        "train_input_end": 39,
+        "test_input_begin": 40,
+        "test_input_end": 59,
+        "predict_input_begin": 60,
+        "predict_input_end": 79,
+        "ranges_processing": "Train_Test_Predict",
+        "upload_folder": "",
+        "separator": ";",
+        "data_file_name": "src/main/resources/data/test_07/us_indexes_data.csv",
+        "file_name": "src/main/resources/data/test_07/us_indexes.csv",
+        "scale_coefficient": 0.8,
+        "normalization_mode": "values",
+        "normalization_coefficient": 2,
+        "min_determination_coefficient": 0.96,
+        "do_gradation": "no"
+      }
+    ]
+  }
+]
+

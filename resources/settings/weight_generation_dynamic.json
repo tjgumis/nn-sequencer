@@ -1,0 +1,9 @@
+[
+  {
+    "settings_marker": "Paneric\\NNOptimizer\\Sequencer\\Loopers\\Weight\\Settings\\GenerationDynamicSettings",
+    "type": "dynamic",
+
+    "seed_begin" : 0,
+    "seed_end": 20000
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "settings_marker": "class com.paneric.optimization.loopers.order.settings.OrderFixedSettings",
+    "type": "fixed",
+    "loops": [
+      [
+        "class com.paneric.optimization.loopers.activation.FunctionLooper",
+        "class com.paneric.optimization.loopers.activation.ParameterLooper",
+        "class com.paneric.optimization.loopers.weight.RevisionLooper",
+        "class com.paneric.optimization.loopers.input.SequenceLooper",
+        "class com.paneric.optimization.loopers.weight.GenerationLooper",
+        "class com.paneric.optimization.loopers.weight.EliminationLooper"
+      ]
+    ]
+  }
+]
+
